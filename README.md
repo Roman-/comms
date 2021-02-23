@@ -1,5 +1,5 @@
 # comms
-This project contains all possible center-safe commutator algorithms that for 5x5 cube in form of [A, B] where A is 1 move long and B is up to 5 moves long. Commutators that don't lead to any interesting cube state are eliminated.
+This project contains all possible center-safe commutator algorithms for 5x5 cube in form of [A, B] where A is 1 move long and B is up to 5 moves long. Commutators that don't lead to any interesting cube state are eliminated.
 
 By "interesting" I mean the following: 3cycles, 2-2-swaps, 5cycles, corner twists, edge flips.
 
